@@ -1,4 +1,4 @@
-# DS-EXERCISE-2  Outlier Detection and Removal
+# EXERCISE-2  OUTLIER DETECTION AND REMOVAL
 
 ## Aim: 
 
